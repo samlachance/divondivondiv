@@ -1,0 +1,109 @@
+/* General global styles */
+body {
+  margin: 0;
+  text-align: center;
+}
+
+div {
+  margin: 20px 2.5%;
+  padding:10px;
+  min-height: 80px;
+  box-sizing: border-box;
+}
+
+div:not(.div) {
+  background-color: #F0F0F0
+}
+
+div.div {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+
+
+/* Yo dawg */
+/* 1 */
+div {
+
+}
+
+/* 2 */
+div div {
+  display: inline-block;
+  width: 45%;
+}
+
+/* 3 */
+div div div {
+  display: inline-block;
+  width: 28.333%;
+}
+
+/* 4 */
+div div div div {
+  display: inline-block;
+  width: 20%;
+}
+
+/* 5 */
+div div div div div {
+  display: inline-block;
+  width: 15%;
+
+}
+
+/* 6 */
+div div div div div div {
+  display: inline-block;
+  width: 11.666%;
+}
+
+/* 7 */
+div div div div div div div {
+
+}
+
+/* 8 */
+div div div div div div div div {
+
+}
+
+/* 9 */
+div div div div div div div div div {
+
+}
+
+/* 10 */
+div div div div div div div div div div {
+
+}
+
+/* 11 */
+div div div div div div div div div div div {
+
+}
+
+/* 12 */
+div div div div div div div div div div div div {
+
+}
+
+/* 13 */
+div div div div div div div div div div div div div {
+
+}
+
+/* 14 */
+
+div div div div div div div div div div div div div div {
+
+}
+
+/* 15 */
+div div div div div div div div div div div div div div div {
+
+}
