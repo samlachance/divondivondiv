@@ -5,21 +5,20 @@ body {
 }
 
 div {
-  margin: 20px 2.5%;
-  padding:10px;
-  min-height: 80px;
-  box-sizing: border-box;
-}
-
-div:not(.div) {
-  background-color: #F0F0F0
-}
-
-div.div {
   width: 100%;
   margin: 0;
   padding: 0;
 }
+
+div.div {
+  margin: 20px 2.5%;
+  padding:10px;
+  min-height: 80px;
+  box-sizing: border-box;
+  background-color: #F0F0F0;
+}
+
+
 
 
 
@@ -32,32 +31,32 @@ div {
 }
 
 /* 2 */
-div div {
+div div.div {
   display: inline-block;
   width: 45%;
 }
 
 /* 3 */
-div div div {
+div div div.div {
   display: inline-block;
   width: 28.333%;
 }
 
 /* 4 */
-div div div div {
+div div div div.div {
   display: inline-block;
   width: 20%;
 }
 
 /* 5 */
-div div div div div {
+div div div div div.div {
   display: inline-block;
   width: 15%;
 
 }
 
 /* 6 */
-div div div div div div {
+div div div div div div.div {
   display: inline-block;
   width: 11.666%;
 }
