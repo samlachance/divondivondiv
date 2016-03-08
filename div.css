@@ -42,6 +42,7 @@ div div.div {
   display: inline-block;
   width: 45%;
   margin: 20px 2.5%;
+  border: 1px solid black;
 }
 
 /* 3 */
@@ -49,6 +50,7 @@ div div div.div {
   display: inline-block;
   width: 28.333%;
   margin: 20px 2.5%;
+  border: 1px solid black;
 }
 
 /* 4 */
@@ -56,6 +58,7 @@ div div div div.div {
   display: inline-block;
   width: 20%;
   margin: 20px 2.5%;
+  border: 1px solid black;
 }
 
 /* 5 */
@@ -63,6 +66,7 @@ div div div div div.div {
   display: inline-block;
   width: 15%;
   margin: 20px 2.5%;
+  border: 1px solid black;
 
 }
 
@@ -71,6 +75,7 @@ div div div div div div.div {
   display: inline-block;
   width: 11.666%;
   margin: 20px 2.5%;
+  border: 1px solid black;
 }
 
 /* 7 */
