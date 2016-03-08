@@ -11,7 +11,7 @@ div {
 }
 
 div.div {
-  margin: 20px 2.5%;
+  margin: 20px 0;
   padding:10px;
   min-height: 80px;
   box-sizing: border-box;
@@ -26,32 +26,36 @@ div.div {
 
 /* Yo dawg */
 /* 1 */
-div {
-
+div.div {
+  background-color: white;
 }
 
 /* 2 */
 div div.div {
   display: inline-block;
   width: 45%;
+  margin: 20px 2.5%;
 }
 
 /* 3 */
 div div div.div {
   display: inline-block;
   width: 28.333%;
+  margin: 20px 2.5%;
 }
 
 /* 4 */
 div div div div.div {
   display: inline-block;
   width: 20%;
+  margin: 20px 2.5%;
 }
 
 /* 5 */
 div div div div div.div {
   display: inline-block;
   width: 15%;
+  margin: 20px 2.5%;
 
 }
 
@@ -59,6 +63,7 @@ div div div div div.div {
 div div div div div div.div {
   display: inline-block;
   width: 11.666%;
+  margin: 20px 2.5%;
 }
 
 /* 7 */
